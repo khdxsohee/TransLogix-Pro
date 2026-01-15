@@ -1,0 +1,7 @@
+{
+  "name": "TransLogix Pro - Enterprise TMS",
+  "description": "A high-end, enterprise-grade Transport Management System featuring real-time fleet tracking, shipment lifecycle management, advanced analytics with Recharts, and AI-powered route optimization via Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

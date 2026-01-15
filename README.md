@@ -79,6 +79,7 @@
 ---
 
 ## 📸 UI Preview
+<img width="1366" height="718" alt="image" src="https://github.com/user-attachments/assets/b8a81838-cfd9-4da0-84e1-ad833404a4c9" />
 
 - **Dashboard**: High-level metrics with AI-generated operational health summaries.
 - **Shipment List**: Interactive tables with status badges and search functionality.
